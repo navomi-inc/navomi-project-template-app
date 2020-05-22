@@ -1,7 +1,7 @@
 {
-    "name": "navomi-abc-pay-store-app",
+    "name": "navomi-project-template-app",
     "version": "1.0.0",
-    "description": "NAVOMI Apple Pay POC App",
+    "description": "NAVOMI Project Template App",
     "author": "John McCullough",
     "private": true,
     "scripts": {
